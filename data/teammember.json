@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 1 ,
+        "name" : "Jhon Doe",
+        "post" : "Managing Director",
+        "image" : "https://www.itlabsolutions.com/wp-content/uploads/2021/08/xdebraj.jpg.pagespeed.ic.Zq3n7XwUqK.webp"
+    },
+    {
+        "id" : 2 ,
+        "name" : "Robert jhon",
+        "post" : "Finance Director",
+        "image" : "https://www.itlabsolutions.com/wp-content/uploads/2021/08/xbijon-da.jpg.pagespeed.ic.rQuTn1mByo.webp"
+    },
+    {
+        "id" : 3 ,
+        "name" : "Michel stock",
+        "post" : "Business Development Director",
+        "image" : "https://www.itlabsolutions.com/wp-content/uploads/2021/08/xrajit-1.jpg.pagespeed.ic.K8Bm6GbJv-.webp"
+    }
+]
